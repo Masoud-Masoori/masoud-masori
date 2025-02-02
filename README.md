@@ -2,12 +2,12 @@
 🏗️ **Civil Engineer Turned ML Consultant & Entrepreneur**  
 
 ### 🌟 My Journey  
-![Typewriter Animation]([https://i.imgur.com/your-gif-link.gif](https://i.imgur.com/your-gif-link.gif))  
 
-✨ **From DOS to AI**: A lifelong tech obsession turned into a 40+ career pivot.  
-✨ **2022**: Immigrated to Canada, rebuilt my career, and now lead AI projects.  
-> *"With a master’s degree in civil engineering, I reached the top of that field, but my lifelong obsession with tech (dating back to the DOS and NC era!) never faded. Life took a turn when I immigrated to Canada in 2022. Starting from scratch, I got first interview and landed my first tech role in canada at IvyTech, pivoted back to school in my 40, and now thrive as an **entrepreneur** and **Machine Learning Consultant**.  
-> **Never stop reinventing.**"*  
+With a master’s degree in civil engineering, I reached the top of that field, but my lifelong obsession with tech (dating back to the DOS and NC era!) never faded. Life took a turn when I immigrated to Canada in 2022. Starting from scratch, I got first interview and landed my first tech role in canada at IvyTech, pivoted back to school in my 40, and now thrive as an **entrepreneur** and **Machine Learning Consultant**. 
+
+
+ **Never stop reinventing.** 
+
 
 ---
 
@@ -31,7 +31,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-Intermediate-orange)  
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Real--Time%20Projects-green)  
 
-*(Use [shields.io](https://shields.io) for custom badges!)*  
+ 
 
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ### 🌍 Let’s Connect!  
-💼 **LinkedIn**: https://www.linkedin.com/in/masoud-masoori/ 
-🚀 **Portfolio**: 
+💼 **LinkedIn**: https://www.linkedin.com/in/masoud-masoori/  
 🐦 **X**: https://x.com/masoud_masoori  
+🚀 **Portfolio**: 
 
 *"Looking to collaborate on AI projects or mentor newcomers. Let’s build the future!"*  
 
