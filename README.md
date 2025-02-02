@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Masoud! 👋  You can call me Mas 
+🏗️ **Civil Engineer Turned ML Consultant & Entrepreneur**  
 
-<!--
-**masoud-masori/masoud-masori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 My Journey  
+> *"With a master’s degree in civil engineering, I reached the top of that field, but my lifelong obsession with tech (dating back to the DOS and NC era!) never faded. Life took a turn when I immigrated to Canada in 2022. Starting from scratch, I got first interview and landed my first tech role in canada at IvyTech, pivoted back to school in my 40, and now thrive as an **entrepreneur** and **Machine Learning Consultant**.  
+> **Never stop reinventing.**"*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Build  
+**🤖 AI/ML Projects**  
+- **[Real-Time AI Project Name]** | [Repo Link] | [Demo]  
+  *Briefly describe the project’s goal and tech stack (e.g., TensorFlow, PyTorch).*  
+
+*(Add more projects here!)*  
+
+---
+
+### 📚 Currently Learning  
+- **Python** | **MySQL** | [Add another skill, e.g., Cloud Platforms]  
+- Always exploring cutting-edge AI tools! 
+
+---
+
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-Expert-blue)  
+![SQL](https://img.shields.io/badge/MySQL-Intermediate-orange)  
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Real--Time%20Projects-green)  
+
+*(Use [shields.io](https://shields.io) for custom badges!)*  
+
+---
+
+### 📈 Stats & Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
+
+---
+
+### 🌍 Let’s Connect!  
+💼 **LinkedIn**: https://www.linkedin.com/in/masoud-masoori/ 
+🚀 **Portfolio**: 
+🐦 **X**: https://x.com/masoud_masoori  
+
+*"Looking to collaborate on AI projects or mentor newcomers. Let’s build the future!"*  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)  
