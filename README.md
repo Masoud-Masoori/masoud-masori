@@ -3,7 +3,7 @@
 
 ### 🌟 My Journey  
 
-With a master’s degree in civil engineering, I reached the top of that field, but my lifelong obsession with tech (dating back to the DOS and NC era!) never faded. Life took a turn when I immigrated to Canada in 2022. Starting from scratch, I got first interview and landed my first tech role in canada at IvyTech, pivoted back to school in my 40, and now thrive as an **entrepreneur** and **Machine Learning Consultant**. 
+With a master’s degree in civil engineering, I reached the top of that field, but my lifelong obsession with tech (dating back to the DOS and NC era!) never faded. Life took a turn when I immigrated to Canada in 2022. Starting from scratch, I got my first interview and landed my first tech role in Canada at IvyTech, pivoted back to school in my 40s, and now thrive as an **entrepreneur** and **Machine Learning Consultant**.
 
 
  **Never stop reinventing.** 
@@ -36,8 +36,8 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 ---
 
 ### 📈 Stats & Activity  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoud-masori&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoud-masori&layout=compact)  
 
 ---
 
@@ -50,4 +50,4 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)  
+![Visitor Count](https://komarev.com/ghpvc/?username=masoud-masori&color=blueviolet)  
