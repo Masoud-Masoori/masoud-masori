@@ -36,8 +36,6 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 ---
 
 ### 📈 Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoud-masori&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoud-masori&layout=compact)
 
 ---
 
