@@ -13,7 +13,8 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 
 ### 🔧 What I Build
 **🤖 AI/ML Projects**
-- **[Real-Time AI Project Name]** | [Repo Link] | [Demo]
+- **https://daena.mas-ai.co/**
+- **https://naturenlp.mas-ai.co/**
   *Briefly describe the project’s goal and tech stack (e.g., TensorFlow, PyTorch).*
 
 
@@ -42,7 +43,7 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 ### 🌍 Let’s Connect!
 💼 **LinkedIn**: https://www.linkedin.com/in/masoud-masoori/
 🐦 **X**: https://x.com/masoud_masoori
-🚀 **Portfolio**:
+🚀 **Portfolio**:https://mas-ai.co/
 
 *"Looking to collaborate on AI projects or mentor newcomers. Let’s build the future!"*
 
