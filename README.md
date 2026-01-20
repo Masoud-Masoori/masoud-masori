@@ -15,7 +15,7 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 **🤖 AI/ML Projects**
 - **https://daena.mas-ai.co/**
 - **https://naturenlp.mas-ai.co/**
-  *Briefly describe the project’s goal and tech stack (e.g., TensorFlow, PyTorch).*
+
 
 
 
